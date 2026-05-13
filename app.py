@@ -1,4 +1,4 @@
 import streamlit as st
 
-st.title("Teste do Streamlit")
-st.success("Parabéns! O seu Streamlit está funcionando no VS Code.")
+st.title("Meu App da Aula!")
+st.success("O sistema de deploy automático está funcionando!")
